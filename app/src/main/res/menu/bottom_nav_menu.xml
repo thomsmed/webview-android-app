@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_local_content_webview"
+        android:icon="@drawable/ic_folder_open_black_24px"
+        android:title="@string/title_local_content_webview" />
+
+    <item
+        android:id="@+id/navigation_web_content_webview"
+        android:icon="@drawable/ic_web_black_24px"
+        android:title="@string/title_web_content_webview" />
+
+</menu>

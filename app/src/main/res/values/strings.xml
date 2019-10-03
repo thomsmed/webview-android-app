@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="title_web_content_webview">Web Content WebView</string>
+    <string name="title_local_content_webview">Local Content WebView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
